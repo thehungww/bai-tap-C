@@ -1,0 +1,1 @@
+tạo ra một chương trình để xừ lý mảng số nguyên có menu các chức năng của chương trình sẽ gồm nhập vào một mảng, sắp xếp tăng dần sắp xếp giảm dần, tìm phần từ trong mảng, chèn và xóa phần tử trong mảng, đảo ngược mảng
